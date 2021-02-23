@@ -83,3 +83,7 @@ header .container {
 .botao i {
     margin-right: 8px;
 }
+
+.filme-principal .container {
+    width: 60%;
+}
